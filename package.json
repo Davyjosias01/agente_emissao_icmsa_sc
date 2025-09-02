@@ -23,5 +23,8 @@
   "homepage": "https://github.com/Davyjosias01/agente_emissao_icmsa_sc#readme",
   "devDependencies": {
     "@playwright/test": "^1.55.0"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
   }
 }
